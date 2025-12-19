@@ -1,0 +1,11 @@
+.outer-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.title-author {
+    display: flex;
+    justify-content: center;
+    max-width: 50%;
+}
